@@ -1,22 +1,17 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        dicS = {}
-        dicT = {}
-        for itemS in s:
-            if itemS in dicS:
-                dicS[itemS] += 1
+        char_count = {}
+        for item in s:
+            if item in char_count:
+                char_count[item] += 1
             else:
-                dicS[itemS] = 1
-        for itemT in t:
-            if itemT in dicT:
-                dicT[itemT] += 1
+                char_count[item] = 1
+        for item in t:
+            if item in char_count:
+                char_count[item] -= 1
             else:
-                dicT[itemT] = 1
-        if set(dicS.keys()) != set(dicT.keys()):
-            return False
-        for keyOfS in dicS.keys():
-            if dicS[keyOfS] != dicT[keyOfS]:
+                char_count[item] = 1
+        for item in char_count.values():
+            if item != 0:
                 return False
         return True
-                
-        
