@@ -7,5 +7,5 @@ class Solution:
                 rightpt = mid
             else:
                 leftpt = mid + 1
-        return leftpt
+        return rightpt
         
