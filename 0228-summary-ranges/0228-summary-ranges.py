@@ -11,12 +11,12 @@ class Solution:
                 if len(rangeArr) == 1:
                     ans.append(str(nums[rangeArr[0]]))
                 else:
-                    ans.append(str(nums[rangeArr[0]]) + "->" + str(nums[rangeArr[-1]]))
+                    ans.append(f"{nums[rangeArr[0]]}->{nums[rangeArr[-1]]}")
                 rangeArr = [i]
         if len(rangeArr) == 1:
             ans.append(str(nums[rangeArr[0]]))
         else:
-            ans.append(str(nums[rangeArr[0]]) + "->" + str(nums[rangeArr[-1]]))
+            ans.append(f"{nums[rangeArr[0]]}->{nums[rangeArr[-1]]}")
         return ans
         
                     
