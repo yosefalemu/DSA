@@ -13,4 +13,4 @@ class Solution:
                 curr_sum = 0
             if ans == 3:
                 return True
-        return False
+        return ans == 3
