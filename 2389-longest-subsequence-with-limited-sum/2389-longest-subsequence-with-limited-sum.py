@@ -6,7 +6,7 @@ class Solution:
             count = 0
             for j in range(len(nums)):
                 if sum + nums[j] > queries[i]:
-                    pass
+                    break
                 else:
                     sum += nums[j]
                     count += 1
