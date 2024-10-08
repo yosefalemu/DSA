@@ -8,11 +8,10 @@ class Solution:
             else:
                 all_prod *= c
         more_zero = count_zero > 1
-        zero_found = count_zero == 1
         if more_zero:
             return [0]*len(nums)
         for i in range(len(nums)):
-            if zero_found:
+            if count_zero:
                 if nums[i] != 0:
                     nums[i] = 0
                 else:
