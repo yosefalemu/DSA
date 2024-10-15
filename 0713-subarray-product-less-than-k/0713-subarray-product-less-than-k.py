@@ -5,8 +5,8 @@ class Solution:
         ans = 0
         product = 1
         left = 0
-        for right in range(len(nums)):
-            product *= nums[right]
+        for right, num in enumerate(nums):
+            product *= num
             while product >= k and left <= right:
                 product /= nums[left]
                 left += 1
