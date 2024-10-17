@@ -14,9 +14,3 @@ class MyCalendarTwo:
                 self.over_lapping.append((max(s,start),min(e,end)))
         self.non_over_lapping.append((start,end))
         return True
-        
-
-
-# Your MyCalendarTwo object will be instantiated and called as such:
-# obj = MyCalendarTwo()
-# param_1 = obj.book(start,end)
