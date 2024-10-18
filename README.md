@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/yosefalemu/DSA/tree/master/0731-my-calendar-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
