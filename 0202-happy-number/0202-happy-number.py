@@ -9,8 +9,9 @@ class Solution:
         return False
     def findSquareOfEach(self,n:int)->int:
         current_sum = 0
-        while n != 0:
-            current_sum += (n % 10)**2
+        while n:
+            digit = n % 10
+            current_sum += digit**2
             n //= 10
         return current_sum
 
