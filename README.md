@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/yosefalemu/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/yosefalemu/DSA/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/yosefalemu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/yosefalemu/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/yosefalemu/DSA/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/yosefalemu/DSA/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/yosefalemu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -107,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/yosefalemu/DSA/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/yosefalemu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
