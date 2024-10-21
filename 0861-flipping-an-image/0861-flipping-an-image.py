@@ -4,7 +4,7 @@ class Solution:
         for i in range(n):
             image[i].reverse()
             for j in range(n):
-                image[i][j] = 1 if image[i][j] == 0 else 0
+                image[i][j] = image[i][j] ^ 1
         return image
 
         
