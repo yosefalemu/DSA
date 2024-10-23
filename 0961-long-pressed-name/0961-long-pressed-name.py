@@ -12,5 +12,3 @@ class Solution:
             else:
                 return False
         return leftPt == len(name)
-            
-        
