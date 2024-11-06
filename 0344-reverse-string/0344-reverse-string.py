@@ -9,5 +9,3 @@ class Solution:
             s[leftPt],s[rightPt] = s[rightPt],s[leftPt]
             leftPt += 1
             rightPt -= 1
-        
-        
