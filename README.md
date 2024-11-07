@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yosefalemu/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/yosefalemu/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/yosefalemu/DSA/tree/master/2561-number-of-distinct-averages) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/yosefalemu/DSA/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yosefalemu/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/yosefalemu/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/yosefalemu/DSA/tree/master/2561-number-of-distinct-averages) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/yosefalemu/DSA/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Linked List
 |  |
 | ------- |
