@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/yosefalemu/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/yosefalemu/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/yosefalemu/DSA/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2698-find-the-array-concatenation-value](https://github.com/yosefalemu/DSA/tree/master/2698-find-the-array-concatenation-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/yosefalemu/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/yosefalemu/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/yosefalemu/DSA/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2698-find-the-array-concatenation-value](https://github.com/yosefalemu/DSA/tree/master/2698-find-the-array-concatenation-value) |
 ## Linked List
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/yosefalemu/DSA/tree/master/0874-backspace-string-compare) |
 | [2551-apply-operations-to-an-array](https://github.com/yosefalemu/DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/yosefalemu/DSA/tree/master/2698-find-the-array-concatenation-value) |
 ## Sorting
 |  |
 | ------- |
