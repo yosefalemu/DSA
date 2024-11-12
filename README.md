@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/yosefalemu/DSA/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/yosefalemu/DSA/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yosefalemu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yosefalemu/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/yosefalemu/DSA/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yosefalemu/DSA/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/yosefalemu/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/yosefalemu/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/yosefalemu/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2634-minimum-common-value](https://github.com/yosefalemu/DSA/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yosefalemu/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yosefalemu/DSA/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sliding Window
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/yosefalemu/DSA/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yosefalemu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/yosefalemu/DSA/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yosefalemu/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/yosefalemu/DSA/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yosefalemu/DSA/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/yosefalemu/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/yosefalemu/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yosefalemu/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/yosefalemu/DSA/tree/master/2561-number-of-distinct-averages) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yosefalemu/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/yosefalemu/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
 |  |
