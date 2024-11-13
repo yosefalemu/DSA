@@ -7,8 +7,8 @@ class Solution:
             else:
                 freq_map[num] = 1
         ans = 0
-        for c in freq_map:
-            if c + 1 in freq_map:
-                ans = max(ans,freq_map[c] + freq_map[c + 1])
+        for key,val in freq_map.items():
+            if key + 1 in freq_map:
+                ans = max(ans,val + freq_map[key + 1])
         return ans
         
