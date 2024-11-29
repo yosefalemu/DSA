@@ -10,6 +10,12 @@ class Solution:
             return None
         pointerA, pointerB = headA, headB
         while pointerA != pointerB:
-            pointerA = pointerA.next if pointerA else headB
-            pointerB = pointerB.next if pointerB else headA
+            if pointerA:
+                pointerA = pointerA.next
+            else:
+                pointerA = headB
+            if pointerB:
+                pointerB = pointerB.next
+            else:
+                pointerB = headA
         return pointerA
