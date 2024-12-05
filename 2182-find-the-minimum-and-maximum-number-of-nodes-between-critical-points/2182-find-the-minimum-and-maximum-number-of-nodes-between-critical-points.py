@@ -13,7 +13,7 @@ class Solution:
         found = False
         firstIndex = -1
         prevIndex = -1
-        index = 1
+        index = 0
         minDistance = float("inf")
         maxDistance = 0
         while third:
