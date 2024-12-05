@@ -11,9 +11,9 @@ class Solution:
             return [-1,-1]
         third = second.next
         found = False
-        firstIndex = 0
-        prevIndex = 0
-        index = 0
+        firstIndex = -1
+        prevIndex = -1
+        index = 1
         minDistance = float("inf")
         maxDistance = 0
         while third:
