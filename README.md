@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/yosefalemu/DSA/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yosefalemu/DSA/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/yosefalemu/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yosefalemu/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/yosefalemu/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/yosefalemu/DSA/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yosefalemu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yosefalemu/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yosefalemu/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yosefalemu/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yosefalemu/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yosefalemu/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
