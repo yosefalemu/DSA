@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/yosefalemu/DSA/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yosefalemu/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/yosefalemu/DSA/tree/master/2128-reverse-prefix-of-word) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yosefalemu/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yosefalemu/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yosefalemu/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/yosefalemu/DSA/tree/master/2442-number-of-arithmetic-triplets) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/yosefalemu/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yosefalemu/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yosefalemu/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yosefalemu/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
