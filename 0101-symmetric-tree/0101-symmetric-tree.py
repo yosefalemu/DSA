@@ -6,6 +6,8 @@
 #         self.right = right
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
+        node1 = root.left
+        node2 = root.right
         def isSymmetricTraverse(left,right):
             if not left and not right:
                 return True
@@ -16,4 +18,4 @@ class Solution:
             node1 = left
             node2 = right
             return isSymmetricTraverse(node1.left,node2.right) and isSymmetricTraverse(node1.right,node2.left)
-        return isSymmetricTraverse(root.left,root.right)
+        return isSymmetricTraverse(node1,node2)
