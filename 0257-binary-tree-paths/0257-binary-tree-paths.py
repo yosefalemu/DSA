@@ -17,8 +17,8 @@ class Solution:
             if not node.left and not node.right:
                 ans.append(path)
                 return
-            traverseTree(node.right,path)
             traverseTree(node.left,path)
+            traverseTree(node.right,path)
         traverseTree(root,"")
         return ans
         
