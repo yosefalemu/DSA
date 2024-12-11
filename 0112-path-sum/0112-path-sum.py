@@ -9,16 +9,11 @@ class Solution:
         ans = []
         def traverseTree(node,pathSum):
             if not node:
-                return
-            if pathSum:
-                pathSum += node.val
-            else:
-                pathSum = node.val
+                return False
+            pathSum += node.val
             if not node.left and not node.right:
-                ans.append(pathSum)
-                return
-            traverseTree(node.left,pathSum)
-            traverseTree(node.right,pathSum)
-        traverseTree(root,0)
-        return targetSum in ans
+                return pathSum == targetSum
+            return traverseTree(node.left,pathSum) or traverseTree(node.right,pathSum)
+        return traverseTree(root,0)
+
         
