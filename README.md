@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/yosefalemu/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0713-subarray-product-less-than-k](https://github.com/yosefalemu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/yosefalemu/DSA/tree/master/0731-my-calendar-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yosefalemu/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/yosefalemu/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosefalemu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosefalemu/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yosefalemu/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/yosefalemu/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosefalemu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosefalemu/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yosefalemu/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/yosefalemu/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
