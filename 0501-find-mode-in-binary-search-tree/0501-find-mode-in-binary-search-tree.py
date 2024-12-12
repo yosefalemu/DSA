@@ -19,10 +19,7 @@ class Solution:
             traverseTree(node.left)
             traverseTree(node.right)
         traverseTree(root)
-        maxItem = max(countItem.values())
-        ans = []
-        for key,value in countItem.items():
-            if value == maxItem:
-                ans.append(key)
+        maxCount = max(countItem.values())
+        ans = [val for val, count in countItem.items() if count == maxCount]
         return ans
         
