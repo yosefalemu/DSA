@@ -8,29 +8,30 @@ class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
         leafNodes1 = []
         leafNodes2 = []
-        def traverseTree1(node):
+        def traverseTree(node,leafNodes):
             if not node:
                 return
             if not node.left and not node.right:
-                leafNodes1.append(node.val)
-            traverseTree1(node.left)
-            traverseTree1(node.right)
-        def traverseTree2(node):
-            if not node:
-                return
-            if not node.left and not node.right:
-                leafNodes2.append(node.val)
-            traverseTree2(node.left)
-            traverseTree2(node.right)
-        traverseTree1(root1)
-        traverseTree2(root2)
-        length1 = len(leafNodes1)
-        length2 = len(leafNodes2)
-        if length1 != length2:
-            return False
-        for i in range(length1):
-            if leafNodes1[i] != leafNodes2[i]:
-                return False
-        return True
+                leafNodes.append(node.val)
+            traverseTree(node.left,leafNodes)
+            traverseTree(node.right,leafNodes)
+        # def traverseTree2(node):
+        #     if not node:
+        #         return
+        #     if not node.left and not node.right:
+        #         leafNodes2.append(node.val)
+        #     traverseTree2(node.left)
+        #     traverseTree2(node.right)
+        traverseTree(root1,leafNodes1)
+        traverseTree(root2,leafNodes2)
+        return leafNodes1 == leafNodes2
+        # length1 = len(leafNodes1)
+        # length2 = len(leafNodes2)
+        # if length1 != length2:
+        #     return False
+        # for i in range(length1):
+        #     if leafNodes1[i] != leafNodes2[i]:
+        #         return False
+        # return True
 
         
