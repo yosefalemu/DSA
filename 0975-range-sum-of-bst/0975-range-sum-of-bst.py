@@ -13,10 +13,12 @@ class Solution:
                 return
             if node.val >= low and node.val <= high:
                 ans += node.val
-            if node.val > low:
                 traverseTree(node.left)
-            if node.val < high:
                 traverseTree(node.right)
+            elif node.val < low:
+                traverseTree(node.right)
+            elif node.val > high:
+                traverseTree(node.left)
         traverseTree(root)
         return ans
 
