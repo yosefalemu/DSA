@@ -7,16 +7,9 @@
 
 class Solution:
     def getTargetCopy(self, original: TreeNode, cloned: TreeNode, target: TreeNode) -> TreeNode:
-        d = deque()
-        d.append(cloned)
-        while d:
-            for i in range(len(d)):
-                curr = d.popleft()
-                if curr:
-                    if curr.val == target.val:
-                        return curr
-                    if curr.left:
-                        d.append(curr.left)
-                    if curr.right:
-                        d.append(curr.right)
+        if not original:
+            return
+        if original == target:
+            return cloned
+        return self.getTargetCopy(original.left,cloned.left,target) or self.getTargetCopy(original.right,cloned.right,target)
         
