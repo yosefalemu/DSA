@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yosefalemu/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yosefalemu/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yosefalemu/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2350-find-closest-number-to-zero](https://github.com/yosefalemu/DSA/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/yosefalemu/DSA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yosefalemu/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/yosefalemu/DSA/tree/master/2551-apply-operations-to-an-array) |
