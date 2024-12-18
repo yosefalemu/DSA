@@ -15,6 +15,8 @@ class Solution:
                 if curr:
                     if curr.val == target.val:
                         return curr
-                    d.append(curr.left)
-                    d.append(curr.right)
+                    if curr.left:
+                        d.append(curr.left)
+                    if curr.right:
+                        d.append(curr.right)
         
