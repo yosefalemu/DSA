@@ -7,15 +7,14 @@
 
 class Solution:
     def getTargetCopy(self, original: TreeNode, cloned: TreeNode, target: TreeNode) -> TreeNode:
-        ans = TreeNode()
-        def traverseTree(node):
-            nonlocal ans
-            if not node:
-                return
-            if node.val == target.val:
-                ans = node
-            traverseTree(node.left)
-            traverseTree(node.right)
-        traverseTree(cloned)
-        return ans
+        d = deque()
+        d.append(cloned)
+        while d:
+            for i in range(len(d)):
+                curr = d.popleft()
+                if curr:
+                    if curr.val == target.val:
+                        return curr
+                    d.append(curr.left)
+                    d.append(curr.right)
         
