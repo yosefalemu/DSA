@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yosefalemu/DSA/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosefalemu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0219-contains-duplicate-ii](https://github.com/yosefalemu/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/yosefalemu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/yosefalemu/DSA/tree/master/0731-my-calendar-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/yosefalemu/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/yosefalemu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1755-defuse-the-bomb](https://github.com/yosefalemu/DSA/tree/master/1755-defuse-the-bomb) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/yosefalemu/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yosefalemu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/yosefalemu/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yosefalemu/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/yosefalemu/DSA/tree/master/0816-design-hashset) |
