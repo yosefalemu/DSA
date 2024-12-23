@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/yosefalemu/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/yosefalemu/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/yosefalemu/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/yosefalemu/DSA/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yosefalemu/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/yosefalemu/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yosefalemu/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/yosefalemu/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/yosefalemu/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yosefalemu/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/yosefalemu/DSA/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/yosefalemu/DSA/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/yosefalemu/DSA/tree/master/0961-long-pressed-name) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/yosefalemu/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/yosefalemu/DSA/tree/master/1454-remove-palindromic-subsequences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yosefalemu/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
