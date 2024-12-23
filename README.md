@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/yosefalemu/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/yosefalemu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1755-defuse-the-bomb](https://github.com/yosefalemu/DSA/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/yosefalemu/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yosefalemu/DSA/tree/master/0817-design-hashmap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yosefalemu/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
 | [2442-number-of-arithmetic-triplets](https://github.com/yosefalemu/DSA/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yosefalemu/DSA/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/yosefalemu/DSA/tree/master/2561-number-of-distinct-averages) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/yosefalemu/DSA/tree/master/0961-long-pressed-name) |
 | [1454-remove-palindromic-subsequences](https://github.com/yosefalemu/DSA/tree/master/1454-remove-palindromic-subsequences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yosefalemu/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/yosefalemu/DSA/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yosefalemu/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/yosefalemu/DSA/tree/master/2128-reverse-prefix-of-word) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/yosefalemu/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
+| [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yosefalemu/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosefalemu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
