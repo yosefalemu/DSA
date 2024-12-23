@@ -1,7 +1,7 @@
 class Solution:
     def minimumRecolors(self, blocks: str, k: int) -> int:
         numOfIteration = len(blocks) - k + 1
-        ans = float("inf")
+        ans = inf
         for i in range(numOfIteration):
             temp = blocks[i:k+i]
             recolor = 0
