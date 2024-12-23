@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/yosefalemu/DSA/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yosefalemu/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yosefalemu/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yosefalemu/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/yosefalemu/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yosefalemu/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yosefalemu/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/yosefalemu/DSA/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
