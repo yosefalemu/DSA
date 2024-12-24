@@ -5,7 +5,7 @@ class Solution:
         ans = inf
         for i in range(numOfIteration):
             temp = nums[i:i+k]
-            ans = min(ans,abs(min(temp)-max(temp)))
+            ans = min(ans,temp[k - 1] - temp[0])
         return ans
             
 
