@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yosefalemu/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/yosefalemu/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/yosefalemu/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/yosefalemu/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/yosefalemu/DSA/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yosefalemu/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/yosefalemu/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/yosefalemu/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yosefalemu/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yosefalemu/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yosefalemu/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/yosefalemu/DSA/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/yosefalemu/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
