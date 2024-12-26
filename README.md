@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/yosefalemu/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yosefalemu/DSA/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/yosefalemu/DSA/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3463-alternating-groups-i](https://github.com/yosefalemu/DSA/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/yosefalemu/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yosefalemu/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/yosefalemu/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/yosefalemu/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/yosefalemu/DSA/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3463-alternating-groups-i](https://github.com/yosefalemu/DSA/tree/master/3463-alternating-groups-i) |
 ## Prefix Sum
 |  |
 | ------- |
