@@ -6,10 +6,12 @@ class Solution:
             temp = [1]
             if len(prev) >= 2:
                 left = 0
-                for right in range(1,len(prev)):
+                right = 1
+                while right < len(prev):
                     aboveSum = prev[left] + prev[right]
                     temp.append(aboveSum)
                     left += 1
+                    right += 1
             temp.append(1)
             ans.append(temp)
         return ans
