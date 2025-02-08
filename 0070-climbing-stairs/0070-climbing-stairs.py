@@ -1,16 +1,18 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
         memo = {}
-        def helper(number) -> int:
-            if number in memo:
-                return memo[number]
-            if number == n:
+        def helper(curr):
+            if curr in memo:
+                return memo[curr]
+            if curr == 1:
                 return 1
-            if number > n:
-                return 0
-            memo[number] = helper(number + 1) + helper(number + 2)
-            return memo[number]
-        return helper(0)
+            if curr == 2:
+                return 2
+            memo[curr] = helper(curr - 1) + helper(curr - 2)
+            return memo[curr]
+        return helper(n)
+            
+
 
 
 
