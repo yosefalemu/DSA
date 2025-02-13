@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/yosefalemu/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yosefalemu/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/yosefalemu/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosefalemu/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/yosefalemu/DSA/tree/master/0071-simplify-path) |
 | [0187-repeated-dna-sequences](https://github.com/yosefalemu/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/yosefalemu/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/yosefalemu/DSA/tree/master/0344-reverse-string) |
