@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/yosefalemu/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yosefalemu/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yosefalemu/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/yosefalemu/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/yosefalemu/DSA/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/yosefalemu/DSA/tree/master/0413-arithmetic-slices) |
 | [0552-student-attendance-record-ii](https://github.com/yosefalemu/DSA/tree/master/0552-student-attendance-record-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/yosefalemu/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/yosefalemu/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/yosefalemu/DSA/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 | [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/yosefalemu/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
