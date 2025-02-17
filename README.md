@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yosefalemu/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/yosefalemu/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yosefalemu/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yosefalemu/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yosefalemu/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/yosefalemu/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yosefalemu/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/yosefalemu/DSA/tree/master/0086-partition-list) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yosefalemu/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0071-simplify-path](https://github.com/yosefalemu/DSA/tree/master/0071-simplify-path) |
 | [0187-repeated-dna-sequences](https://github.com/yosefalemu/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/yosefalemu/DSA/tree/master/0257-binary-tree-paths) |
