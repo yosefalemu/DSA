@@ -1,17 +1,14 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         ans = []
-        def helper(openP,closeP,s,memo):
-            if s in memo:
-                return memo[s]
+        def helper(openP,closeP,s):
             if openP == closeP and openP + closeP == n*2:
                 ans.append(s)
-                memo[s] = s  
                 return
             if openP < n:
-                helper(openP + 1,closeP, s + "(",{})
+                helper(openP + 1,closeP, s + "(")
             if closeP < openP:
-                helper(openP,closeP + 1, s + ")",{})
-        helper(0,0,"",{})
+                helper(openP,closeP + 1, s + ")")
+        helper(0,0,"")
         return ans
         
