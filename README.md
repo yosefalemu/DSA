@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yosefalemu/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/yosefalemu/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/yosefalemu/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yosefalemu/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/yosefalemu/DSA/tree/master/0070-climbing-stairs) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yosefalemu/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/yosefalemu/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/yosefalemu/DSA/tree/master/0071-simplify-path) |
 | [0187-repeated-dna-sequences](https://github.com/yosefalemu/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/yosefalemu/DSA/tree/master/0257-binary-tree-paths) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yosefalemu/DSA/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/yosefalemu/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/yosefalemu/DSA/tree/master/0257-binary-tree-paths) |
 ## Trie
