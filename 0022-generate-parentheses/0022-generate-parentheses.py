@@ -9,7 +9,6 @@ class Solution:
                 helper(openP + 1,closeP, s + "(")
             if closeP < openP:
                 helper(openP,closeP + 1, s + ")")
-            return
         helper(0,0,"")
         return ans
         
