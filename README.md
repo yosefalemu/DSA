@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yosefalemu/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yosefalemu/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yosefalemu/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/yosefalemu/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/yosefalemu/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yosefalemu/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yosefalemu/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yosefalemu/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yosefalemu/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yosefalemu/DSA/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/yosefalemu/DSA/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosefalemu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/yosefalemu/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yosefalemu/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/yosefalemu/DSA/tree/master/0063-unique-paths-ii) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
