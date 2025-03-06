@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yosefalemu/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yosefalemu/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yosefalemu/DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/yosefalemu/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/yosefalemu/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yosefalemu/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yosefalemu/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yosefalemu/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yosefalemu/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/yosefalemu/DSA/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/yosefalemu/DSA/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/yosefalemu/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/yosefalemu/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/yosefalemu/DSA/tree/master/0344-reverse-string) |
