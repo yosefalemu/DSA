@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yosefalemu/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yosefalemu/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/yosefalemu/DSA/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/yosefalemu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/yosefalemu/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yosefalemu/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yosefalemu/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yosefalemu/DSA/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/yosefalemu/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yosefalemu/DSA/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/yosefalemu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/yosefalemu/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/yosefalemu/DSA/tree/master/1013-fibonacci-number) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yosefalemu/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/yosefalemu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/yosefalemu/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/yosefalemu/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yosefalemu/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yosefalemu/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/yosefalemu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/yosefalemu/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/yosefalemu/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/yosefalemu/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/yosefalemu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosefalemu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/yosefalemu/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yosefalemu/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
