@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yosefalemu/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/yosefalemu/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yosefalemu/DSA/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/yosefalemu/DSA/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/yosefalemu/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/yosefalemu/DSA/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/yosefalemu/DSA/tree/master/0413-arithmetic-slices) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yosefalemu/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yosefalemu/DSA/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/yosefalemu/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/yosefalemu/DSA/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/yosefalemu/DSA/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/yosefalemu/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yosefalemu/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yosefalemu/DSA/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/yosefalemu/DSA/tree/master/0221-maximal-square) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
