@@ -1,6 +1,9 @@
 class Solution:
     def diffWaysToCompute(self, expression: str) -> List[int]:
+        memo = {}
         def helper(subExp):
+            if subExp in memo:
+                return memo[subExp]
             if subExp.isdigit():
                 return [int(subExp)]
             result = []
@@ -16,6 +19,7 @@ class Solution:
                                 result.append(leftNum - rightNum)
                             elif char == "*":
                                 result.append(leftNum * rightNum)
+            memo[subExp] = result
             return result
         return helper(expression)
 
