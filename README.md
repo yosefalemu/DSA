@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yosefalemu/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yosefalemu/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/yosefalemu/DSA/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yosefalemu/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/yosefalemu/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/yosefalemu/DSA/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/yosefalemu/DSA/tree/master/0413-arithmetic-slices) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yosefalemu/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/yosefalemu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yosefalemu/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/yosefalemu/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/yosefalemu/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/yosefalemu/DSA/tree/master/1086-divisor-game) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/yosefalemu/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yosefalemu/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yosefalemu/DSA/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yosefalemu/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/yosefalemu/DSA/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/yosefalemu/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## String
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/yosefalemu/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/yosefalemu/DSA/tree/master/0097-interleaving-string) |
 | [0187-repeated-dna-sequences](https://github.com/yosefalemu/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yosefalemu/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/yosefalemu/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/yosefalemu/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yosefalemu/DSA/tree/master/0392-is-subsequence) |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yosefalemu/DSA/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/yosefalemu/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/yosefalemu/DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/yosefalemu/DSA/tree/master/1236-n-th-tribonacci-number) |
 ## Brainteaser
