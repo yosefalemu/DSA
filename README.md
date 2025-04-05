@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/yosefalemu/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/yosefalemu/DSA/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yosefalemu/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/yosefalemu/DSA/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/yosefalemu/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/yosefalemu/DSA/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/yosefalemu/DSA/tree/master/0413-arithmetic-slices) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/yosefalemu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yosefalemu/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/yosefalemu/DSA/tree/master/0279-perfect-squares) |
 | [0445-add-two-numbers-ii](https://github.com/yosefalemu/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/yosefalemu/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/yosefalemu/DSA/tree/master/1086-divisor-game) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/yosefalemu/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/yosefalemu/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/yosefalemu/DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/yosefalemu/DSA/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/yosefalemu/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yosefalemu/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/yosefalemu/DSA/tree/master/0617-merge-two-binary-trees) |
