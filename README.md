@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/yosefalemu/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/yosefalemu/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1755-defuse-the-bomb](https://github.com/yosefalemu/DSA/tree/master/1755-defuse-the-bomb) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yosefalemu/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yosefalemu/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yosefalemu/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yosefalemu/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/yosefalemu/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yosefalemu/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yosefalemu/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yosefalemu/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/yosefalemu/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yosefalemu/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/yosefalemu/DSA/tree/master/0401-binary-watch) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 | [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yosefalemu/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/yosefalemu/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/yosefalemu/DSA/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Matrix
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yosefalemu/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/yosefalemu/DSA/tree/master/2442-number-of-arithmetic-triplets) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/yosefalemu/DSA/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Counting
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/yosefalemu/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/yosefalemu/DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/yosefalemu/DSA/tree/master/0401-binary-watch) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yosefalemu/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
 | ------- |
@@ -598,4 +603,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yosefalemu/DSA/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yosefalemu/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
