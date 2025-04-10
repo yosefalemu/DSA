@@ -1,6 +1,5 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        candidates.sort()
         def helper(start, tempL):
             if sum(tempL) == target:
                 ans.append(tempL[:])
