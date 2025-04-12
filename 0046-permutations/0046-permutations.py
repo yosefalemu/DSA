@@ -7,9 +7,9 @@ class Solution:
             res = []
             for perm in perms:
                 for i in range(len(perm) + 1):
-                    p_copy = perm.copy()
-                    p_copy.insert(i, tempNum[0])
-                    res.append(p_copy)
+                    perm_copy = perm.copy()
+                    perm_copy.insert(i, tempNum[0])
+                    res.append(perm_copy)
             return res
         return helper(nums) 
 
