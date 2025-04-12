@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/yosefalemu/DSA/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/yosefalemu/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yosefalemu/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/yosefalemu/DSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/yosefalemu/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yosefalemu/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/yosefalemu/DSA/tree/master/0063-unique-paths-ii) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/yosefalemu/DSA/tree/master/0047-permutations-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/yosefalemu/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/yosefalemu/DSA/tree/master/0958-sort-array-by-parity-ii) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/yosefalemu/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yosefalemu/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yosefalemu/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/yosefalemu/DSA/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/yosefalemu/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/yosefalemu/DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/yosefalemu/DSA/tree/master/0401-binary-watch) |
