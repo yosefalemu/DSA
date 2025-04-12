@@ -11,10 +11,13 @@ class Solution:
                 return
 
             for i in range(start, len(candidates)):
+                temp = total + candidates[i]
+                if temp > target:
+                    break
                 if i > start and candidates[i] == candidates[i - 1]:
                     continue
                 path.append(candidates[i])
-                backtrack(i + 1, path, total + candidates[i])
+                backtrack(i + 1, path, temp)
                 path.pop()
 
         backtrack(0, [], 0)
