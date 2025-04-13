@@ -3,14 +3,14 @@ class Solution:
         def helper(tempNum):
             if len(tempNum) == 0:
                 return [[]]
-            perms = helper(tempNum[1:])
             res = []
+            perms = helper(tempNum[1:])
             for perm in perms:
                 for i in range(len(perm) + 1):
                     perm_copy = perm.copy()
-                    perm_copy.insert(i, tempNum[0])
+                    perm_copy.insert(i,tempNum[0])
                     res.append(perm_copy)
             return res
-        return helper(nums) 
-
+        return helper(nums)
+ 
             
