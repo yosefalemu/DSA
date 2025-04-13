@@ -3,8 +3,8 @@ class Solution:
         def helper(tempNum):
             if len(tempNum) == 0:
                 return [[]]
-            res = []
             perms = helper(tempNum[1:])
+            res = []
             for perm in perms:
                 for i in range(len(perm) + 1):
                     perm_copy = perm.copy()
