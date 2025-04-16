@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yosefalemu/DSA/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/yosefalemu/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yosefalemu/DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/yosefalemu/DSA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/yosefalemu/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yosefalemu/DSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yosefalemu/DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/yosefalemu/DSA/tree/master/0089-gray-code) |
 | [0187-repeated-dna-sequences](https://github.com/yosefalemu/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/yosefalemu/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/yosefalemu/DSA/tree/master/0338-counting-bits) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/yosefalemu/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yosefalemu/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yosefalemu/DSA/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/yosefalemu/DSA/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/yosefalemu/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/yosefalemu/DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/yosefalemu/DSA/tree/master/0401-binary-watch) |
