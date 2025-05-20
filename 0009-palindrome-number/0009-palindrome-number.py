@@ -11,9 +11,6 @@ class Solution:
         original = x
         while x > 0:
             digit = x % 10
-            # Check for potential overflow (for 32-bit integer constraints)
-            if reversed_num > 2147483647 // 10:  # Max 32-bit int is 2^31 - 1 = 2147483647
-                return False
             reversed_num = reversed_num * 10 + digit
             x //= 10
         
