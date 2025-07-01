@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/yosefalemu/DSA/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/yosefalemu/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/yosefalemu/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/yosefalemu/DSA/tree/master/3617-find-the-original-typed-string-i) |
 ## Greedy
 |  |
 | ------- |
