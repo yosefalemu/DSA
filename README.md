@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/yosefalemu/DSA/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/yosefalemu/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/yosefalemu/DSA/tree/master/1764-maximum-repeating-substring) |
+| [3618-find-the-original-typed-string-ii](https://github.com/yosefalemu/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/yosefalemu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/yosefalemu/DSA/tree/master/0731-my-calendar-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/yosefalemu/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Design
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/yosefalemu/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/yosefalemu/DSA/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/yosefalemu/DSA/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/yosefalemu/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
