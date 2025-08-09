@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yosefalemu/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yosefalemu/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/yosefalemu/DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/yosefalemu/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yosefalemu/DSA/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/yosefalemu/DSA/tree/master/0045-jump-game-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yosefalemu/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yosefalemu/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/yosefalemu/DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/yosefalemu/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yosefalemu/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/yosefalemu/DSA/tree/master/0086-partition-list) |
