@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/yosefalemu/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1755-defuse-the-bomb](https://github.com/yosefalemu/DSA/tree/master/1755-defuse-the-bomb) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yosefalemu/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2058-concatenation-of-array](https://github.com/yosefalemu/DSA/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yosefalemu/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yosefalemu/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yosefalemu/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/yosefalemu/DSA/tree/master/0874-backspace-string-compare) |
+| [2058-concatenation-of-array](https://github.com/yosefalemu/DSA/tree/master/2058-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/yosefalemu/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/yosefalemu/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/yosefalemu/DSA/tree/master/2698-find-the-array-concatenation-value) |
