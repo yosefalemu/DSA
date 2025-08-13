@@ -8,10 +8,9 @@ class Solution:
         ans = []
         for c in s:
             if ans and c in tempDic:
-                temp = ans.pop()
-                if tempDic[c] != temp:
+                if tempDic[c] != ans.pop():
                     return False
             else:
                 ans.append(c)
-        return len(ans) == 0
+        return not ans
         
