@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yosefalemu/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/yosefalemu/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yosefalemu/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/yosefalemu/DSA/tree/master/0143-reorder-list) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yosefalemu/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yosefalemu/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/yosefalemu/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yosefalemu/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/yosefalemu/DSA/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/yosefalemu/DSA/tree/master/0079-word-search) |
