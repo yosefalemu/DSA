@@ -1,19 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        parenthesesRelation = {
+        tempDic = {
             ")" : "(",
-            "]" : "[",
-            "}" : "{"           
+            "}" : "{",
+            "]" : "["
         }
-        stack = []
-        for item in s:
-            if stack and  item in parenthesesRelation.keys():
-                if parenthesesRelation[item] != stack.pop():
+        ans = []
+        for c in s:
+            if ans and c in tempDic:
+                temp = ans.pop()
+                if tempDic[c] != temp:
                     return False
             else:
-                stack.append(item)
-        return not stack
-                
-                
-            
-            
+                ans.append(c)
+        return len(ans) == 0
+        
