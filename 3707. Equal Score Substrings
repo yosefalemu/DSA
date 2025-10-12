@@ -1,0 +1,15 @@
+class Solution:
+    def scoreBalance(self, s: str) -> bool:
+        prefix_sum_arr = []
+        for c in s:
+            current_value = ord(c) - ord('a') + 1
+            prefix_sum_arr.append(current_value)
+        all_sum = sum(prefix_sum_arr)
+        prefix_sum = 0
+        for num in prefix_sum_arr:
+            prefix_sum += num
+            if prefix_sum == all_sum - prefix_sum:
+                return True
+        return False
+
+  
