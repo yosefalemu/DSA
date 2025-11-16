@@ -1,17 +1,10 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        char_count = {}
-        for item in s:
-            if item in char_count:
-                char_count[item] += 1
-            else:
-                char_count[item] = 1
-        for item in t:
-            if item in char_count:
-                char_count[item] -= 1
-            else:
-                char_count[item] = 1
-        for item in char_count.values():
-            if item != 0:
-                return False
-        return True
+        if len(s) != len(t):
+            return False
+        count = {}
+        n = len(s)
+        for i in range(n):
+            count[s[i]] = count.get(s[i], 0) + 1
+            count[t[i]] = count.get(t[i], 0 ) - 1
+        return all(val == 0 for val in count.values())
