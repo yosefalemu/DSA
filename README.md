@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yosefalemu/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/yosefalemu/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yosefalemu/DSA/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/yosefalemu/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yosefalemu/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/yosefalemu/DSA/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/yosefalemu/DSA/tree/master/0413-arithmetic-slices) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/yosefalemu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/yosefalemu/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/yosefalemu/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yosefalemu/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yosefalemu/DSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yosefalemu/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/yosefalemu/DSA/tree/master/0047-permutations-ii) |
+| [0217-contains-duplicate](https://github.com/yosefalemu/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yosefalemu/DSA/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/yosefalemu/DSA/tree/master/0941-sort-array-by-parity) |
