@@ -1,16 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        tempDic = {
-            ")" : "(",
+        validParen = {
+            "]" : "[",
             "}" : "{",
-            "]" : "["
+            ")" : "("
         }
-        ans = []
+        container = []
         for c in s:
-            if ans and c in tempDic:
-                if tempDic[c] != ans.pop():
-                    return False
+            if c not in validParen:
+                container.append(c)
             else:
-                ans.append(c)
-        return not ans
+                corresponding_open = container.pop() if container else None
+                if validParen[c] != corresponding_open:
+                    return False
+        return len(container) == 0
         
