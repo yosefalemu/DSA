@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/yosefalemu/DSA/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yosefalemu/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yosefalemu/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/yosefalemu/DSA/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yosefalemu/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yosefalemu/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yosefalemu/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
