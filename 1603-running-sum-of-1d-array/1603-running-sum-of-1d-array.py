@@ -1,4 +1,4 @@
-from itertools import accumulate
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
-        return list(accumulate(nums))
+        ans = lambda nums: list(accumulate(nums))
+        return ans(nums)
