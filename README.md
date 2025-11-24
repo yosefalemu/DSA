@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/yosefalemu/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/yosefalemu/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/yosefalemu/DSA/tree/master/1755-defuse-the-bomb) |
+| [1920-build-array-from-permutation](https://github.com/yosefalemu/DSA/tree/master/1920-build-array-from-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yosefalemu/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/yosefalemu/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/yosefalemu/DSA/tree/master/2058-concatenation-of-array) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yosefalemu/DSA/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/yosefalemu/DSA/tree/master/0874-backspace-string-compare) |
+| [1920-build-array-from-permutation](https://github.com/yosefalemu/DSA/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/yosefalemu/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/yosefalemu/DSA/tree/master/2058-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/yosefalemu/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
