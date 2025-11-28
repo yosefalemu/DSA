@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/yosefalemu/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/yosefalemu/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/yosefalemu/DSA/tree/master/1755-defuse-the-bomb) |
+| [1791-richest-customer-wealth](https://github.com/yosefalemu/DSA/tree/master/1791-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/yosefalemu/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/yosefalemu/DSA/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yosefalemu/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yosefalemu/DSA/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/yosefalemu/DSA/tree/master/0221-maximal-square) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
+| [1791-richest-customer-wealth](https://github.com/yosefalemu/DSA/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
