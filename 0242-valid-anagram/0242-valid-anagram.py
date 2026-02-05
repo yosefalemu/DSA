@@ -3,8 +3,16 @@ class Solution:
         if len(s) != len(t):
             return False
         count = {}
-        n = len(s)
-        for i in range(n):
-            count[s[i]] = count.get(s[i], 0) + 1
-            count[t[i]] = count.get(t[i], 0 ) - 1
-        return all(val == 0 for val in count.values())
+        for char in s:
+            if char in count:
+                count[char] += 1
+            else:
+                count[char] = 1
+        for char in t:
+            if char in count:
+                count[char] -= 1
+                if count[char] == 0:
+                    del(count[char])
+        return not count
+            
+        
