@@ -1,9 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        seen = {}
+        freq = {}
         for i, num in enumerate(nums):
             diff = target - num
-            if diff in seen:
-                return [i, seen[diff]]
-            seen[num] = i
-
+            if diff in freq:
+                return [freq[diff], i]
+            freq[num] = i
+        
