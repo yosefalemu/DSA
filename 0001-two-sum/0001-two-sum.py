@@ -6,4 +6,3 @@ class Solution:
             if diff in freq:
                 return [freq[diff], i]
             freq[num] = i
-        
