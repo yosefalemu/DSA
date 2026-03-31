@@ -1,17 +1,15 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        leftpt = 0
-        rightpt = 0
+        i = 0
         result = ""
-        while leftpt < len(word1) and rightpt < len(word2):
-            result += word1[leftpt]
-            result += word2[rightpt]
-            leftpt += 1
-            rightpt += 1
-        if leftpt < len(word1):
-            result += word1[leftpt:]
-        if rightpt < len(word2):
-            result += word2[rightpt:]
+        while i < len(word1) and i < len(word2):
+            result += word1[i]
+            result += word2[i]
+            i += 1
+        if i < len(word1):
+            result += word1[i:]
+        if i < len(word2):
+            result += word2[i:]
         return result
 
         # let n = len(word1)
