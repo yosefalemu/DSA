@@ -14,9 +14,8 @@ class Solution:
 
         # let n = len(word1)
         # let m = len(word2)
-        # let p = max(n, m)
-        # time complexity O(p) which equivalent with O(p)
-        # space complexity O(n + m) which is equivalent with O(n)
+        # time complexity O(n + m)
+        # space complexity O(n + m)
 
 
 
