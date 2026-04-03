@@ -10,10 +10,11 @@ class Solution:
         if count_zero > 1:
             return [0]*len(nums)
         for i in range(len(nums)):
-            if nums[i] == 0:
-                nums[i] = product
-            elif count_zero == 1 and nums[i] != 0:
-                nums[i] = 0
+            if count_zero == 1:
+                if nums[i] == 0:
+                    nums[i] = product
+                else:
+                    nums[i] = 0
             else:
                 nums[i] = product // nums[i]
         return nums
