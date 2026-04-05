@@ -6,7 +6,8 @@ class Solution:
         zero_pt = 0
         for i in range(len(nums)):
             if nums[i] != 0:
-                nums[i], nums[zero_pt] = nums[zero_pt], nums[i]
+                if i != zero_pt:
+                    nums[i], nums[zero_pt] = nums[zero_pt], nums[i]
                 zero_pt += 1
 
         
