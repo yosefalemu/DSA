@@ -7,7 +7,7 @@ class Solution:
                 curr_count += 1
         max_count = curr_count
         for i in range(k, len(s)):
-            curr_count += (1 if s[i] in vowels else 0) + (-1 if s[i - k] in vowels else 0)
+            curr_count += (s[i] in vowels) - (s[i - k] in vowels)
             max_count = max(max_count, curr_count)
         return max_count
 
