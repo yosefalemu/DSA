@@ -3,12 +3,12 @@ class Solution:
         i = 1
         n = len(nums)
         curr_sum = sum(nums[:k])
-        ans = curr_sum / k
+        max_sum = curr_sum
         while i + k <= n:
-            curr_sum = curr_sum - nums[i - 1] + nums[i + k - 1]
-            ans = max(ans, curr_sum / k)
+            curr_sum = curr_sum - nums[i - 1] + nums[i + k -1]
+            max_sum = max(max_sum, curr_sum)
             i += 1
-        return ans
+        return max_sum / k
 
 
 
