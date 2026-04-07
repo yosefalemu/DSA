@@ -6,7 +6,7 @@ class Solution:
         ans = curr_sum / k
         while i + k <= n:
             curr_sum = curr_sum - nums[i - 1] + nums[i + k - 1]
-            ans = max(ans, curr_sum/ k)
+            ans = max(ans, curr_sum / k)
             i += 1
         return ans
 
