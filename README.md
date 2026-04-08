@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/yosefalemu/DSA/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/yosefalemu/DSA/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/yosefalemu/DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yosefalemu/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1764-maximum-repeating-substring](https://github.com/yosefalemu/DSA/tree/master/1764-maximum-repeating-substring) |
 | [3618-find-the-original-typed-string-ii](https://github.com/yosefalemu/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Array
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yosefalemu/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yosefalemu/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/yosefalemu/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yosefalemu/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/yosefalemu/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/yosefalemu/DSA/tree/master/1635-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yosefalemu/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/yosefalemu/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yosefalemu/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yosefalemu/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yosefalemu/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/yosefalemu/DSA/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yosefalemu/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
