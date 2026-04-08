@@ -13,8 +13,8 @@ class Solution:
                 left_pt = zero_index + 1
                 zero_index = right_pt
                 count_zero -= 1
-            ans = max(ans, right_pt - left_pt + 1)
-        return ans - 1
+            ans = max(ans, right_pt - left_pt)
+        return ans
             
 
         
