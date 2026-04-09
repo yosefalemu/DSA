@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/yosefalemu/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/yosefalemu/DSA/tree/master/1635-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yosefalemu/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/yosefalemu/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/yosefalemu/DSA/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/yosefalemu/DSA/tree/master/1791-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/yosefalemu/DSA/tree/master/1920-build-array-from-permutation) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/yosefalemu/DSA/tree/master/0731-my-calendar-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/yosefalemu/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/yosefalemu/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/yosefalemu/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/yosefalemu/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3618-find-the-original-typed-string-ii](https://github.com/yosefalemu/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Design
