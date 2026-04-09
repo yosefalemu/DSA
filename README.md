@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yosefalemu/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/yosefalemu/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/yosefalemu/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/yosefalemu/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yosefalemu/DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/yosefalemu/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0413-arithmetic-slices](https://github.com/yosefalemu/DSA/tree/master/0413-arithmetic-slices) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/yosefalemu/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/yosefalemu/DSA/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/yosefalemu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/yosefalemu/DSA/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/yosefalemu/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yosefalemu/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yosefalemu/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yosefalemu/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yosefalemu/DSA/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yosefalemu/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/yosefalemu/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yosefalemu/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/yosefalemu/DSA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yosefalemu/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/yosefalemu/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/yosefalemu/DSA/tree/master/0279-perfect-squares) |
 | [0445-add-two-numbers-ii](https://github.com/yosefalemu/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/yosefalemu/DSA/tree/master/1013-fibonacci-number) |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/yosefalemu/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/yosefalemu/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/yosefalemu/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/yosefalemu/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/yosefalemu/DSA/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/yosefalemu/DSA/tree/master/0401-binary-watch) |
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
@@ -499,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/yosefalemu/DSA/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/yosefalemu/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yosefalemu/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yosefalemu/DSA/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/yosefalemu/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/yosefalemu/DSA/tree/master/0958-sort-array-by-parity-ii) |
