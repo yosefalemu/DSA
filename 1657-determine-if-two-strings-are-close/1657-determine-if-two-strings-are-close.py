@@ -1,10 +1,13 @@
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
-        char_dict1 = dict()
-        char_dict2 = dict()
+        if len(word1) != len(word2):
+            return False
 
         if set(word1) != set(word2):
             return False
+
+        char_dict1 = dict()
+        char_dict2 = dict()
         
         for char in word1:
             char_dict1[char] = char_dict1.get(char, 0) + 1
