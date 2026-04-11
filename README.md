@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yosefalemu/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yosefalemu/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/yosefalemu/DSA/tree/master/1635-number-of-good-pairs) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yosefalemu/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yosefalemu/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yosefalemu/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/yosefalemu/DSA/tree/master/1454-remove-palindromic-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yosefalemu/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yosefalemu/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yosefalemu/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1764-maximum-repeating-substring](https://github.com/yosefalemu/DSA/tree/master/1764-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/yosefalemu/DSA/tree/master/1768-merge-strings-alternately) |
 | [1873-longest-nice-substring](https://github.com/yosefalemu/DSA/tree/master/1873-longest-nice-substring) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yosefalemu/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yosefalemu/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/yosefalemu/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yosefalemu/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yosefalemu/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yosefalemu/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yosefalemu/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/yosefalemu/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1635-number-of-good-pairs](https://github.com/yosefalemu/DSA/tree/master/1635-number-of-good-pairs) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yosefalemu/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yosefalemu/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/yosefalemu/DSA/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Hash Function
