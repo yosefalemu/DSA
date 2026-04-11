@@ -1,19 +1,15 @@
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
+        # Step 1: same length
         if len(word1) != len(word2):
             return False
-
-        if set(word1) != set(word2):
+        
+        count1 = Counter(word1)
+        count2 = Counter(word2)
+        
+        # Step 2: same set of characters
+        if count1.keys() != count2.keys():
             return False
-
-        char_dict1 = dict()
-        char_dict2 = dict()
         
-        for char in word1:
-            char_dict1[char] = char_dict1.get(char, 0) + 1
-       
-        for char in word2:
-            char_dict2[char] = char_dict2.get(char, 0) + 1
-
-        return sorted(char_dict1.values()) == sorted(char_dict2.values())
-        
+        # Step 3: same frequency distribution
+        return Counter(count1.values()) == Counter(count2.values())
