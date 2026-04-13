@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/yosefalemu/DSA/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/yosefalemu/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/yosefalemu/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/yosefalemu/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/yosefalemu/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/yosefalemu/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yosefalemu/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/yosefalemu/DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yosefalemu/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2390-removing-stars-from-a-string](https://github.com/yosefalemu/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yosefalemu/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/yosefalemu/DSA/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/yosefalemu/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/yosefalemu/DSA/tree/master/2058-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/yosefalemu/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/yosefalemu/DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/yosefalemu/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/yosefalemu/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/yosefalemu/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2551-apply-operations-to-an-array](https://github.com/yosefalemu/DSA/tree/master/2551-apply-operations-to-an-array) |
