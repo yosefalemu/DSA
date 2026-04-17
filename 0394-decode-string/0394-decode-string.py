@@ -12,7 +12,7 @@ class Solution:
                 current_multiplier = ""
                 while stack and stack[-1].isdigit():
                     current_multiplier = stack.pop() + current_multiplier
-                stack.append(current_substring*int(current_multiplier))
+                stack.append(current_substring * int(current_multiplier))
         return "".join(stack)
 
 
