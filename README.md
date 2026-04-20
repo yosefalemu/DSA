@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/yosefalemu/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yosefalemu/DSA/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/yosefalemu/DSA/tree/master/0838-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/yosefalemu/DSA/tree/master/0933-number-of-recent-calls) |
 ## Segment Tree
 |  |
 | ------- |
@@ -770,4 +771,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/yosefalemu/DSA/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yosefalemu/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/yosefalemu/DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/yosefalemu/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
