@@ -17,7 +17,7 @@ class MyStack:
         
 
     def empty(self) -> bool:
-        return not self.impl
+        return len(self.impl) == 0
         
 
 
