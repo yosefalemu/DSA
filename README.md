@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yosefalemu/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/yosefalemu/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0731-my-calendar-ii](https://github.com/yosefalemu/DSA/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/yosefalemu/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yosefalemu/DSA/tree/master/0817-design-hashmap) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yosefalemu/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yosefalemu/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/yosefalemu/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/yosefalemu/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/yosefalemu/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/yosefalemu/DSA/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/yosefalemu/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/yosefalemu/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/yosefalemu/DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
