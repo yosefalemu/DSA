@@ -1,13 +1,11 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        tempDic = {}
-        for i in range(len(s)):
-            if s[i] in tempDic:
-                tempDic[s[i]].append(i)
-            else:
-                tempDic[s[i]] = [i]
-        for item in tempDic:
-            if len(tempDic[item]) == 1:
-                return int(tempDic[item][0])
-        return -1
+        counts = Counter(s)
+        queue = deque()
+
+        for i, char in enumerate(s):
+            queue.append((char, i))
+            while queue and counts[queue[0][0]] > 1:
+                queue.popleft()
+        return queue[0][1] if queue else -1
         
