@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yosefalemu/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/yosefalemu/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/yosefalemu/DSA/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yosefalemu/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yosefalemu/DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yosefalemu/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/yosefalemu/DSA/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yosefalemu/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/yosefalemu/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/yosefalemu/DSA/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yosefalemu/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/yosefalemu/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/yosefalemu/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/yosefalemu/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yosefalemu/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/yosefalemu/DSA/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yosefalemu/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yosefalemu/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
