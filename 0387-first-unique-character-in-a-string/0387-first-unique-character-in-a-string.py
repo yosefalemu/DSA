@@ -1,9 +1,12 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        counts = Counter(s)
+        counts = {}
+        store = deque()
 
-        for key in counts.keys():
-            if counts[key] == 1:
-                return s.find(key)
-        return -1
+        for i, ch in enumerate(s):
+            counts[ch] = counts.get(ch, 0) + 1
+            store.append((ch, i))
+            while store and counts[store[0][0]] > 1:
+                store.popleft()
+        return store[0][1] if store else -1
         
