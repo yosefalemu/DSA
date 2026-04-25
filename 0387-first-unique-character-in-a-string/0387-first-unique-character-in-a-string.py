@@ -1,9 +1,9 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
         counts = Counter(s)
-        # We only iterate a maximum of 26 characters
-        for char, count in counts.items():
-            if count == 1:
-                return s.find(char)
+
+        for key, value in counts.items():
+            if counts[key] == 1:
+                return s.find(key)
         return -1
         
