@@ -8,13 +8,12 @@ class Solution:
                 if ans[leftpt] == strs[i][rightpt]:
                     common += ans[leftpt]
                 else:
-                    if len(common) == 0:
-                        return ""
-                    else:
-                        ans = common
-                        break
+                    break
                 leftpt += 1
                 rightpt += 1
+            ans = common
+            if ans == "":
+                return ""
         return ans
 
 
