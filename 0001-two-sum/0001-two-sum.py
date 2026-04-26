@@ -5,4 +5,7 @@ class Solution:
             if target - nums[i] in temp:
                 return [temp[target - nums[i]], i]
             temp[nums[i]] = i
-            
+        
+        # Time complexity O(n)
+        # Space complexity O(n), at the worst case
+
