@@ -1,15 +1,12 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        pointer = len(digits) - 1
-        while pointer >= 0:
-            if digits[pointer] == 9:
-                digits[pointer] = 0
-            else:
-                digits[pointer] += 1
-                return digits
-            pointer -= 1
-        return [1] + digits
-        
-        
+        temp = 0
+        multiplier = 1
+        for i in range(len(digits) - 1, -1, -1):
+            temp += multiplier*digits[i]
+            multiplier *= 10
+        return [int(num) for num in list(str(temp + 1))]
+
+
 
         
