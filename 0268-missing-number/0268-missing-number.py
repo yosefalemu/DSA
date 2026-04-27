@@ -5,4 +5,5 @@ class Solution:
             if nums[i] != i:
                 return i
         return len(nums)
+
         
