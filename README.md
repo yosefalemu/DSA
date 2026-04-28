@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/yosefalemu/DSA/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/yosefalemu/DSA/tree/master/0941-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/yosefalemu/DSA/tree/master/0941-valid-mountain-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/yosefalemu/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0958-sort-array-by-parity-ii](https://github.com/yosefalemu/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/yosefalemu/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/yosefalemu/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/yosefalemu/DSA/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/yosefalemu/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/yosefalemu/DSA/tree/master/0874-backspace-string-compare) |
+| [0944-delete-columns-to-make-sorted](https://github.com/yosefalemu/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/yosefalemu/DSA/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/yosefalemu/DSA/tree/master/0961-long-pressed-name) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yosefalemu/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
